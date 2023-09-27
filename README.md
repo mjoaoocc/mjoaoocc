@@ -15,16 +15,51 @@ or
 <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillelobby.png"
   alt="Alt text"
-  title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-![lucillelobby](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillelobby.png)
-![lucilleconcierge](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucilleconcierge.png)
-![lucillebar](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillebar.png)
-![lucillespa](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillespa.png)
-![tindog1](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog1.png)
-![tindog2](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog2.png)
-![tindog3](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog3.png)
-![drumkit](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/drumkit.png)
-![emojipedia](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipedia.png)
-![emojipediadog](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipediadog.png)
+  
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucilleconcierge.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillebar.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillespa.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog1.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog2.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog3.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/drumkit.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipedia.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  <img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipediadog.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
