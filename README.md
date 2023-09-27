@@ -1,4 +1,4 @@
-###  <h1 align="center" style="font-family: 'Arial', sans-serif">Hello Everyone 🫶🏻</h1>
+###  <h1 align="center">Hello Everyone 🫶🏻</h1>
 
 <h2 align="center" style="font-family: 'Arial', sans-serif">I'm MJ - a Junior Software Developer 🤩 </h2>
 
@@ -7,9 +7,13 @@
   <li>🌱 I’m currently learning React.js, Android, and IOS Development</li>
   <li>🤔 I want to learn Python soon</li>
   <li>⚡ Fun fact: I'm great at small talk</li>
-  <li>📫 Reach me at mariajoaocorreiacunha@gmail.com (I know, it's really long)</li>
-  or
-  <li><a href="www.linkedin.com/in/maria-joao-cunha">www.linkedin.com/in/maria-joao-cunha</a></li>
+  <p align="center"> Let's Connect ☕️
+	<a href="https://github.com/mjoaoocc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/maria-joao-cunha/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/mjccunha/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:mariajoaocorreiacunha@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
+ 
 </ul>
 
 <div>
