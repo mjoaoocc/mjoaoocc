@@ -1,3 +1,4 @@
+### 
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +11,7 @@
   }
 
   .image {
-    width: 50%;
+    width: 300px;
     max-width: 300px; 
   }
 </style>
