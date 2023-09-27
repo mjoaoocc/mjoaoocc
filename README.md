@@ -1,11 +1,11 @@
 
 <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/bar.png" alt="Alt text" class="image" style="width: 100%">
 
-<ul align="center" style="list-style: none;">
-  <li>🔭 I’m currently working on making myself great for my first job in tech</li>
-  <li>🌱 I’m currently learning React.js, Android, and IOS Development</li>
-  <li>🤔 I want to learn Python soon</li>
-  <li>⚡ Fun fact: I'm great at small talk</li>
+
+  <h4>🔭 I’m currently working on making myself great for my first job in tech</h4>
+  <h4>🌱 I’m currently learning React.js, Android, and IOS Development</h4>
+  <h4>🤔 I want to learn Python soon</h4>
+  <h4>⚡ Fun fact: I'm great at small talk</h4>
   <h3 align="center"> Let's Connect ☕️
 	  <br>
 	<a href="https://github.com/mjoaoocc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
