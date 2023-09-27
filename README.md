@@ -12,7 +12,7 @@
 or
 <li>www.linkedin.com/in/maria-joao-cunha</li>
 </ul>
-![lucillelobby](https://github.com/mjoaoocc/mjoaoocc/assets/123601151/567ac3bd-ba66-41f2-b79a-7b79b6679aa2)
+![lucillelobby](https://github.com/mjoaoocc/mjoaoocc/gitimages/lucillelobby.png)
 ![lucilleconcierge](https://github.com/mjoaoocc/mjoaoocc/assets/123601151/b55584a2-ad2f-454f-bbf8-4ffee1c9c350)
 ![lucillebar](https://github.com/mjoaoocc/mjoaoocc/assets/123601151/b4655a59-bc15-4775-9082-a57c62585fda)
 ![lucillespa](https://github.com/mjoaoocc/mjoaoocc/assets/123601151/25845e03-bb2e-4b82-863f-1be2c2394a74)
