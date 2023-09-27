@@ -1,19 +1,18 @@
-###  <h1 align="center">Hello Everyone 🫶🏻</h1>
 
-<h2 align="center" style="font-family: 'Arial', sans-serif">I'm MJ - a Junior Software Developer 🤩 </h2>
+<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/bar.png" alt="Alt text" class="image" style="width: 100%">
 
 <ul align="center" style="list-style: none;">
   <li>🔭 I’m currently working on making myself great for my first job in tech</li>
   <li>🌱 I’m currently learning React.js, Android, and IOS Development</li>
   <li>🤔 I want to learn Python soon</li>
   <li>⚡ Fun fact: I'm great at small talk</li>
-  <p align="center"> Let's Connect ☕️
+  <h3 align="center"> Let's Connect ☕️
 	  <br>
 	<a href="https://github.com/mjoaoocc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/maria-joao-cunha/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/mjccunha/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:mariajoaocorreiacunha@gmail.com"><img src="https://img.icons8.com/bubbles/email" alt="Email"/></a>
-</p>
+	<a href="mailto:mariajoaocorreiacunha@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="Email"/></a>
+</h3>
  
 </ul>
 
