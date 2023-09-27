@@ -1,5 +1,5 @@
 
-<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/bar.png" alt="Alt text" class="image" style="width: 100%">
+<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/hey.png" alt="Alt text" class="image" style="width: 100%">
 
 
   <h4>🔭 I’m currently working on making myself great for my first job in tech</h4>
@@ -28,5 +28,7 @@
   <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipedia.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
   <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipediadog.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
 </div>
+
+<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/bye.png" alt="Alt text" class="image" style="width: 100%">
 
 
