@@ -12,6 +12,11 @@
 or
 <li>www.linkedin.com/in/maria-joao-cunha</li>
 </ul>
+<img
+  src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillelobby.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ![lucillelobby](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillelobby.png)
 ![lucilleconcierge](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucilleconcierge.png)
 ![lucillebar](https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillebar.png)
