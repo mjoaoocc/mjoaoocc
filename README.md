@@ -8,10 +8,11 @@
   <li>🤔 I want to learn Python soon</li>
   <li>⚡ Fun fact: I'm great at small talk</li>
   <p align="center"> Let's Connect ☕️
+	  <br>
 	<a href="https://github.com/mjoaoocc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/maria-joao-cunha/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/mjccunha/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:mariajoaocorreiacunha@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="mailto:mariajoaocorreiacunha@gmail.com"><img src="https://img.icons8.com/bubbles/email" alt="Email"/></a>
 </p>
  
 </ul>
