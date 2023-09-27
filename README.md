@@ -25,7 +25,7 @@ or
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillebar.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; width: 300px">
+  style="display: flex; margin: 0 auto; width: 300px; align: center">
 
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillespa.png"
