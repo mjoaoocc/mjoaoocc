@@ -15,51 +15,51 @@ or
 <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillelobby.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
   
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucilleconcierge.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
   
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillebar.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
 
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillespa.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
 
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog1.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
 
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog2.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
 
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog3.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
 
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/drumkit.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
 
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipedia.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
 
   <img
   src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipediadog.png"
   alt="Alt text"
-  style="display: flex; margin: 0 auto; max-width: 300px">
+  style="display: flex; margin: 0 auto; max-width: 100px">
 
 
