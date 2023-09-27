@@ -14,7 +14,7 @@
 
 <div class="image-grid" style="display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
-    gap: 20px; 
+    gap: 40px; 
     justify-items: center">
   <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillelobby.png" alt="Alt text" class="image" style="width: 400px">
   <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucilleconcierge.png" alt="Alt text" class="image" style="width: 400px">
