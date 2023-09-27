@@ -1,6 +1,6 @@
-###  <h1 align="center">Hello Everyone 🫶🏻</h1>
+###  <h1 align="center" style="font-family: 'Arial', sans-serif">Hello Everyone 🫶🏻</h1>
 
-<h2 align="center">I'm MJ - a Junior Software Developer 🤩 </h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif">I'm MJ - a Junior Software Developer 🤩 </h2>
 
 <ul align="center" style="list-style: none;">
   <li>🔭 I’m currently working on making myself great for my first job in tech</li>
@@ -25,6 +25,4 @@
   <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/emojipediadog.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
 </div>
 
-</body>
-</html>
 
