@@ -11,10 +11,16 @@
 </div>
 <br>
 <br>
-<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Lucilleshowcase.png" alt="Alt text" class="image" style="width: 80%">
-<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Tindogshowcase.png" alt="Alt text" class="image" style="width: 80%">
-<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Emojipediashowcase.png" alt="Alt text" class="image" style="width: 80%">
-<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Drumkitshowcase.png" alt="Alt text" class="image" style="width: 80%">
+<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Lucilleshowcase.png" alt="Alt text" class="image" style="width: 70%">
+  <br>
+<br>
+<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Tindogshowcase.png" alt="Alt text" class="image" style="width: 70%">
+  <br>
+<br>
+<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Emojipediashowcase.png" alt="Alt text" class="image" style="width: 70%">
+  <br>
+<br>
+<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Drumkitshowcase.png" alt="Alt text" class="image" style="width: 70%">
 </div>
 <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/bye.png" alt="Alt text" class="image" style="width: 100%">
 
