@@ -17,10 +17,8 @@
 </ul>
 
 <div>
-  <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillelobby.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
-  <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucilleconcierge.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
-  <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillebar.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
-  <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/lucillespa.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
+  <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Lucilleshowcase.png" alt="Alt text" class="image" style="width: 100%">
+  
   <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog1.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
   <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog2.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
   <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/tindog3.png" alt="Alt text" class="image" style="width: 400px; margin: 20px">
