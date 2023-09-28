@@ -1,6 +1,7 @@
 
 <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/hey.png" alt="Alt text" class="image" style="width: 100%">
 
+<div align="center">
 <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/presentation.png" alt="Alt text" class="image" style="width: 80%">
 <div align="center">
 <a href="https://github.com/mjoaoocc"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -13,8 +14,8 @@
 <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Lucilleshowcase.png" alt="Alt text" class="image" style="width: 80%">
 <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Tindogshowcase.png" alt="Alt text" class="image" style="width: 80%">
 <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Emojipediashowcase.png" alt="Alt text" class="image" style="width: 80%">
-<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Drumkitshowcase.png" alt="Alt text" class="image" style="width: 90%">
-
+<img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/Drumkitshowcase.png" alt="Alt text" class="image" style="width: 80%">
+</div>
 <img src="https://github.com/mjoaoocc/mjoaoocc/blob/main/gitimages/bye.png" alt="Alt text" class="image" style="width: 100%">
 
 
